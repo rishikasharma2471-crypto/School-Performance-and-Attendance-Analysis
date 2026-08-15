@@ -1,4 +1,4 @@
-#School Performance & Academic Analytics Tool
+School Performance & Academic Analytics Tool
 
 A Core Python-based data processing tool that reads a real-world dataset from Kaggle and provides interactive student performance analysis through a command-line interface.
 
@@ -30,5 +30,3 @@ Analyzes final scores (`G3` metrics out of 20) to instantly calculate and output
 ## Author
 
 Rishika Sharma - BCA Student
-
-* **Rishika Sharma** (BCA 2nd Year Student)
