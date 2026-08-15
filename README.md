@@ -23,9 +23,9 @@ Analyzes final scores (`G3` metrics out of 20) to instantly calculate and output
 
 ## What I learned
 
-* Used native libraries to understand feature parsing and raw data extraction under the hood.
-* Deepened structural understanding by managing file records inside a nested list of dictionaries.
-* Practiced building continuous live application menus using custom runtime logic and loop breakers.
+* Understood how to open, read, and process raw CSV data files cleanly using Python's native file handling methods.
+* Deepened my data structure concepts by organizing rows of student records into a nested list of dictionaries.
+* Practiced control flow logic by building an interactive application menu with continuous while loops and break conditions.
 
 ## Author
 
