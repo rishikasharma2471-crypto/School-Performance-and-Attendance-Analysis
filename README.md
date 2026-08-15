@@ -1,4 +1,4 @@
-School Performance & Academic Analytics Tool
+# School Performance & Academic Analytics Tool
 
 A Core Python-based data processing tool that reads a real-world dataset from Kaggle and provides interactive student performance analysis through a command-line interface.
 
